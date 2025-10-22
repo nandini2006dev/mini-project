@@ -1,4 +1,4 @@
-he Class Timetable Generator is a Python program designed to help students and teachers create customized weekly class schedules efficiently. Instead of manually preparing a timetable, users can define the number of working days, periods per day, and subjects, then assign subjects to each period interactively.
+The Class Timetable Generator is a Python program designed to help students and teachers create customized weekly class schedules efficiently. Instead of manually preparing a timetable, users can define the number of working days, periods per day, and subjects, then assign subjects to each period interactively.
 
 The program also allows exporting the timetable to a CSV file for easy viewing, sharing, or printing.
 
